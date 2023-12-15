@@ -3583,3 +3583,18 @@ PING github.com (140.82.121.3) 56(84) bytes of data.
 rtt min/avg/max/mdev = 41.284/41.284/41.284/0.000 ms
 spojeni navazano
 Vse je aktualni
+PING github.com (140.82.121.4) 56(84) bytes of data.
+64 bytes from lb-140-82-121-4-fra.github.com (140.82.121.4): icmp_seq=1 ttl=49 time=172 ms
+
+--- github.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 171.769/171.769/171.769/0.000 ms
+spojeni navazano
+Vse je aktualni
+PING github.com (140.82.121.4) 56(84) bytes of data.
+64 bytes from lb-140-82-121-4-fra.github.com (140.82.121.4): icmp_seq=1 ttl=49 time=171 ms
+
+--- github.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 170.749/170.749/170.749/0.000 ms
+spojeni navazano
