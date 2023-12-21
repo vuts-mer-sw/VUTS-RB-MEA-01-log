@@ -14051,3 +14051,31 @@ PING github.com (140.82.121.3) 56(84) bytes of data.
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
 rtt min/avg/max/mdev = 14.700/14.700/14.700/0.000 ms
 spojeni navazano
+Byla nahrana nova verze
+Program bude restartován a znovu spuštěn
+no Connection
+no Connection
+no Connection
+no Connection
+no Connection
+no Connection
+PING github.com (140.82.121.3) 56(84) bytes of data.
+
+--- github.com ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+no Connection
+PING github.com (140.82.121.4) 56(84) bytes of data.
+
+--- github.com ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+no Connection
+no Connection
+PING github.com (140.82.121.3) 56(84) bytes of data.
+
+--- github.com ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+no Connection
+no Connection
